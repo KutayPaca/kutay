@@ -1,0 +1,34 @@
+{
+  "sehir": "Istanbul",
+  "ulke": "Turkiye",
+  "nufus": 15460000,
+  "tarihiYerler": [
+    {
+      "isim": "Ayasofya",
+      "açıklama": "Ayasofya, Bizans İmparatoru I. Justinianus tarafından 537 yılında kilise olarak inşa ettirilmiştir.",
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hagia_Sophia_Mars_2013.jpg"
+    },
+    {
+      "isim": "Topkapi Sarayi",
+      "açıklama": "Topkapı Sarayı, Osmanlı İmparatorluğu'nun 400 yıl boyunca idare merkezi olarak kullanılmıştır.",
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Topkapi_Palace_2006.jpg"
+    },
+    {
+      "isim": "Sultanahmet Camii",
+      "açıklama": "Sultanahmet Camii, 1609-1616 yılları arasında Sultan I. Ahmed tarafından yaptırılmıştır.",
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/2/20/Istanbul_2013_0479.jpg"
+    }
+  ],
+  "bolgeler": [
+    {
+      "isim": "Beyoglu",
+      "nufus": 245000,
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/9/92/Golden_Horn_and_Galata_Bridge.JPG"
+    },
+    {
+      "isim": "Kadikoy",
+      "nufus": 482000,
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/68/Kadikoy_Cumhuriyet_Caddesi.jpg"
+    }
+  ]
+}
